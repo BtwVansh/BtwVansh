@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on html websites.
-- 📫 Reach Me Via - @soon.mail
+- 📫 Reach Me Via - contact@btwvansh.codes
 
 # 🌠 My Websites!
 - <a href="https://www.btwvansh.codes/">⛄ Personal Website.</a>
